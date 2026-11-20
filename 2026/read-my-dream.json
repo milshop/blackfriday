@@ -1,0 +1,20 @@
+{
+  "name": "Read My Dream",
+  "url": "https://readmydream.com/plus",
+  "description": "Dream journal with AI readings that connect each new dream to your past ones, in five languages",
+  "category": "ai",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off the first year or first month of Plus",
+  "pricing": "subscription",
+  "price": {
+    "regular": 39.99,
+    "sale": 19.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://readmydream.com/icon-512.png"
+}
