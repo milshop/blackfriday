@@ -6,14 +6,14 @@
   "platforms": [
     "web"
   ],
-  "deal": "41% off the first year of Pro yearly, $59 instead of $79 until green card",
+  "deal": "10% off: Pro yearly first year $44.10, until green card $71.10",
   "pricing": "subscription",
   "price": {
     "regular": 49,
-    "sale": 29,
+    "sale": 44.1,
     "currency": "USD"
   },
-  "discount": 41,
+  "discount": 10,
   "startDate": "2026-11-20",
   "endDate": "2026-12-01",
   "icon": "https://permwatch.com/icon-512.png"
